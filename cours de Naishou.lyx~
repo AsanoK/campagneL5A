@@ -1,0 +1,208 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Cours de Toshi no Naishou
+\end_layout
+
+\begin_layout Section
+Familles impériales
+\end_layout
+
+\begin_layout Subsection
+Miya Ansho, gouverneur:
+\end_layout
+
+\begin_layout Standard
+Myia Ansho a été nommé par l'empereur pour gouverner la province, et décider
+ qui sera son successeur à cette tâche.
+ Il est profondément en faveur d'une solution pacifique, et est déçu par
+ les négociations futiles menées par les grands clans, ce qui pourrait bien
+ le conduire à nommer un clan mineur pour diriger Naishou.
+ Il n'apprécie pas spécialement d'avoir autant de soldats sous ses ordres,
+ mais fait avec.
+\end_layout
+
+\begin_layout Standard
+C'est un homme entre deux âges, mince.
+ Il impose le respect par son ton calme.
+\end_layout
+
+\begin_layout Standard
+Sa seule vraie joie est sa fille, Myia Iaimiko.
+\end_layout
+
+\begin_layout Standard
+Le peuple l'apprécie, car il s'intéresse en priorité à leurs problèmes,
+ avant de chercher à déterminer qui contrôlera la province.
+\end_layout
+
+\begin_layout Subsection
+Myia Iamiko, héraut impérial:
+\end_layout
+
+\begin_layout Standard
+Jeune femme très indépendante, préférant l'action et la découverte aux intrigues
+ de la court.
+ C'est une combattante correcte.
+\end_layout
+
+\begin_layout Standard
+Elle doit faire face à plusieurs courts de la part de prétendants probablement
+ plus intéressés par une amélioration des relations avec son père, ce qui
+ l'irrite profondément, elle a d'ailleurs menacé un poète Kakita d'un duel
+ si il n'arrêtait pas de la harceler.
+\end_layout
+
+\begin_layout Section
+Scorpion
+\end_layout
+
+\begin_layout Subsection
+bayushi Itaru, taisa du scorpion:
+\end_layout
+
+\begin_layout Standard
+Bayushi apprait comme l'archétype du bushi parfait : beau, bon combattant,
+ bon commandant, courtier habile et favori des femmes de la court.
+\end_layout
+
+\begin_layout Standard
+Le clan le considère à l'heure actuel comme son candidat en tant que futur
+ gouveneur de naishou, et à cette fin, il propose autant que possible son
+ aide au gouverneur, afin de faire démonstration des compétences du scorpion.
+\end_layout
+
+\begin_layout Standard
+Il a toutefois deux faiblesses : une adiction à l'opium et une fierté qui
+ le conduit fréquemment à se mettre en danger, comme pour son duel avec
+ Doji Ayumi.
+\end_layout
+
+\begin_layout Section
+crabe
+\end_layout
+
+\begin_layout Subsection
+kaiu Sekitada :
+\end_layout
+
+\begin_layout Standard
+Sekitada arrive peu après les PJ avec une petite délégation de crabes, afin
+ en premier lieu de donner corps à leurs prétentions sur la province, en
+ tentant de trouver qui a fait construire les bâtiments utilisés, notamment
+ le palais et les casernes.
+\end_layout
+
+\begin_layout Standard
+C'est un vétéran du mur, il y a perdu un bras lors des combats pour reprendre
+ les sections prises par les forces de Daigotsu.
+ Depuis, il n'est plus réellement apte à combattre, et sert régulièrement
+ d'émissaire au crabe.
+ Il est en effet plus mesuré et tolérable que bon nombre de Hida.
+\end_layout
+
+\begin_layout Standard
+Il a une occupation en plus de ses devoirs : il apprécie réaliser des objets
+ en bois, en particulier des jouets, quelques fois des choses plus utiles
+ comme des netsuke ou des petites sculptures.
+\end_layout
+
+\begin_layout Section
+Clans mineurs
+\end_layout
+
+\begin_layout Subsection
+Suzume Akira
+\end_layout
+
+\begin_layout Standard
+Suzume akira est un jeune homme bavard et aux manières peu rafinées, portant
+ un kimono se distingant plus par la qualité de ses broderies qui par celle
+ de son tissu, et aux mains rendues calleuses non par son sabre, mais par
+ des plans de riz.
+\end_layout
+
+\begin_layout Standard
+Son sensei le considère comme un des espoirs du clan sur le plan diplomatique,
+ c'est pour cela qu'il a été envoyé à Naishou avec une tenue coûteuse :
+ afin de tenter de sécuriser des ressources pour son clan, que ce soit la
+ province elle-même, ou simplement obtenant des accords avec d'autres factions.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
